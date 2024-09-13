@@ -19,9 +19,9 @@ const ServiceCard = ({ title, description, Icon }) => (
       <p className="text-gray-600 group-hover:text-gray-700 transition-colors duration-300">{description}</p>
     </div>
     <div className="bg-yellow-500 group-hover:bg-yellow-600 transition-colors duration-300 p-4">
-      <button className="w-full text-white font-semibold py-2 px-4 rounded-lg bg-yellow-600 group-hover:bg-yellow-700 transition-colors duration-300">
+      {/* <button className="w-full text-white font-semibold py-2 px-4 rounded-lg bg-yellow-600 group-hover:bg-yellow-700 transition-colors duration-300">
         Pelajari Lebih Lanjut
-      </button>
+      </button> */}
     </div>
   </div>
 );

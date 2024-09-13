@@ -29,7 +29,7 @@ const ContactSection = () => {
             bgColor="bg-green-500 hover:bg-green-600"
           />
           <SocialButton
-            href="https://www.instagram.com/seikhlas_academy"
+            href="https://www.instagram.com/seikhlasacademy"
             icon={Instagram}
             label="Ikuti kami di Instagram"
             bgColor="bg-pink-500 hover:bg-pink-600"

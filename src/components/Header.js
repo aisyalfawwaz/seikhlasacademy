@@ -69,7 +69,7 @@ const Header = () => {
         </div>
         <div className="pt-4 pb-3 border-t border-gray-200">
           <a
-            href="https://wa.me/62881027818897?text=Halo,%20saya%20ingin%20memesan%20layanan%20Anda."
+            href="https://wa.me/+62881027818897?text=Halo,%20saya%20ingin%20memesan%20layanan%20Anda."
             target="_blank"
             rel="noopener noreferrer"
             className="w-full bg-yellow-600 text-white px-4 py-2 rounded-md font-semibold hover:bg-yellow-500 transition duration-300"

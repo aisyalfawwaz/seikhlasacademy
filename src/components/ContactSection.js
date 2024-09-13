@@ -23,7 +23,7 @@ const ContactSection = () => {
         </p>
         <div className="flex flex-col sm:flex-row justify-center items-center space-y-4 sm:space-y-0 sm:space-x-6">
           <SocialButton
-            href="https://wa.me/088102818897"
+            href="https://wa.me/+6288102818897"
             icon={MessageCircle}
             label="Hubungi via WhatsApp"
             bgColor="bg-green-500 hover:bg-green-600"
